@@ -1,6 +1,12 @@
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+my+profile)](https://git.io/typing-svg)
+  
+</div>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8a67ff&text=Donghwa's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Donghwa's GitHub">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8a67ff&text=Donghwa's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Donghwa's GitHub">
 
 UI/UX Designer · Web Designer
 
