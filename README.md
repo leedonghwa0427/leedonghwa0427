@@ -72,22 +72,6 @@
 
 ---
 
-# ✨ Workflow
-
-```mermaid
-flowchart TD
-
-A[Idea] --> B[Research]
-B --> C[Wireframe]
-C --> D[UI Design]
-D --> E[Prototype]
-E --> F[Interaction]
-F --> G[Development]
-
-classDef dark fill:#111111,color:#ffffff,stroke:#444444,rx:18,ry:18;
-
-class A,B,C,D,E,F,G dark;
-
 ## 🌱 Current Status
 
 ```txt
