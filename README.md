@@ -59,6 +59,15 @@
 
 ---
 
+flowchart LR
+
+A[Emotion] --> B[Experience]
+B --> C[Interaction]
+C --> D[Visual Flow]
+D --> E[Immersive UI]
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔊 Sound Notification App
