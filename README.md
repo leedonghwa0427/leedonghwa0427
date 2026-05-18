@@ -221,7 +221,7 @@ Designing beyond interfaces ✨
 <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=notion&logoColor=111111"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:leedonghaw0427@gmail.com">
 <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=111111"/>
 </a>
 
