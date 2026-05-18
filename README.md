@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Donghwa's GitHub">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8a67ff&text=Donghwa's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Donghwa's GitHub">
 
 UI/UX Designer · Web Designer
 
@@ -10,11 +10,18 @@ UI/UX Designer · Web Designer
 
 </div>
 
+<div align="center">
+
+# 📫 Connect
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XQJWtjcGx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/leedonghaw0427) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leedonghaw0427@gmail.com) 
+
+</div>
+
 ---
 
-# 🛠 Skills
-
 <div align="center">
+
+# 🛠 Skills
 
 <table>
 <tr>
@@ -195,34 +202,12 @@ AI Workflow
 
 ---
 
-# 📊 GitHub
-
-<div align="center">
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leedonghwa0427&theme=tokyo-night"/>
-
-</div>
-Designing beyond interfaces ✨
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=leedonghwa0427&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=leedonghwa0427&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=leedonghwa0427&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=leedonghwa0427&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📫 Connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_ID">
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=111111"/>
-</a>
-
-<a href="https://www.notion.so/">
-<img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=notion&logoColor=111111"/>
-</a>
-
-<a href="mailto:leedonghaw0427@gmail.com">
-<img src="https://img.shields.io/badge/leedonghaw0427@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=111111"/>
-</a>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
