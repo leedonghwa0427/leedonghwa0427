@@ -58,16 +58,7 @@
 </p>
 
 ---
-<div align="center">
-</> Mermaid
-flowchart LR
 
-A[Emotion] --> B[Experience]
-B --> C[Interaction]
-C --> D[Visual Flow]
-D --> E[Immersive UI]
-</div>
----
 
 ## 🚀 Featured Projects
 
