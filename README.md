@@ -222,7 +222,7 @@ Designing beyond interfaces ✨
 </a>
 
 <a href="mailto:leedonghaw0427@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=111111"/>
+<img src="https://img.shields.io/badge/leedonghaw0427@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=111111"/>
 </a>
 
 </div>
