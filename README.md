@@ -75,7 +75,7 @@
 # ✨ Workflow
 
 ```mermaid
-flowchart LR
+flowchart TD
 
 A[Idea] --> B[Research]
 B --> C[Wireframe]
